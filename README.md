@@ -4,7 +4,7 @@ Hi 👋 My name is suhail
 Programmer | Frontend Developer
 -------------------------------
 
-I am a full stack developer, specializing in frontend development. Proficient in Data Structures and Algorithms as well. Programmer, developer, electronics hobbyist, embedded, micro-controller.
+I am a full stack developer, specializing in frontend development. Proficient in Data Structures and Algorithms as well. Programmer, developer.
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [suhailcoder@gmail.com](mailto:suhailcoder@gmail.com)
