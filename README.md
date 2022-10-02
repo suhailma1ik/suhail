@@ -1,7 +1,7 @@
 Hi 👋 My name is suhail
 =======================
 
-Programmer | Frontend Developer
+Programmer | Full Stack Developer
 -------------------------------
 
 I am a full stack developer, specializing in frontend development. Proficient in Data Structures and Algorithms as well. Programmer, developer.
